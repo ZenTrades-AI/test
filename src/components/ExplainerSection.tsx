@@ -45,10 +45,10 @@ const ExplainerSection = () => {
           {/* LISA Brain Diagram */}
           <div className="relative w-full max-w-2xl mx-auto aspect-square">
             {/* Center circle - Now using an image */}
-            <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-40 h-40 rounded-full glass luxury-border flex items-center justify-center z-10 animate-pulse-glow">
+            <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-40 h-40 rounded-full glass flex items-center justify-center z-10 animate-pulse-glow">
               <div className="text-center">
                 <img 
-                  src="https://zentrades.pro/wp-content/uploads/2025/05/11.png" 
+                  src="https://zentrades.pro/wp-content/uploads/2025/05/52213e-540-x-540-px-2.png" 
                   alt="LISA AI Brain" 
                   className="w-24 h-24 mx-auto mb-2"
                 />
