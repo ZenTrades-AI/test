@@ -48,7 +48,7 @@ const ExplainerSection = () => {
             <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-40 h-40 rounded-full glass luxury-border flex items-center justify-center z-10 animate-pulse-glow">
               <div className="text-center">
                 <img 
-                  src="https://zentrades.pro/wp-content/uploads/2025/05/1.svg" 
+                  src="https://zentrades.pro/wp-content/uploads/2025/05/11.png" 
                   alt="LISA AI Brain" 
                   className="w-24 h-24 mx-auto mb-2"
                 />
