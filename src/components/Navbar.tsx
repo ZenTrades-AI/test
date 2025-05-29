@@ -32,7 +32,7 @@ const Navbar = () => {
             <img 
               src="https://zentrades.pro/wp-content/uploads/2025/05/11.png" 
               alt="LISA Logo" 
-              className="h-8 mr-2"
+              className="h-16 mr-2"
             />
            
           </a>
