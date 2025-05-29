@@ -61,7 +61,7 @@ const Navbar = () => {
               <span className="absolute bottom-0 left-0 w-full h-0.5 bg-gradient-luxury transform scale-x-0 origin-left transition-transform group-hover:scale-x-100"></span>
             </a>
             <a 
-              href="#agents" 
+              href="#Calculator" 
               className="text-white/80 hover:text-warmBlush relative overflow-hidden group transition-colors"
             >
               <span>Why AI</span>
