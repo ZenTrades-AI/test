@@ -5,7 +5,6 @@ import HeroSection from "../components/HeroSection";
 import ProofStrip from "../components/ProofStrip";
 import ExplainerSection from "../components/ExplainerSection";
 import AgentsSection from "../components/AgentsSection";
-import TestimonialSection from "../components/TestimonialSection";
 import DemoCtaSection from "../components/DemoCtaSection";
 import CalculatorSection from "../components/CalculatorSection";
 import WhyLisaSection from "../components/WhyLisaSection";
