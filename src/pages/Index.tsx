@@ -58,7 +58,6 @@ const Index = () => {
       <ProofStrip />
       <ExplainerSection />
       <AgentsSection />
-      <TestimonialSection />
       <DemoCtaSection />
       <CalculatorSection />
       <WhyLisaSection />
