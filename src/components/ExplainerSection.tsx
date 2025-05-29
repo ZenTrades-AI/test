@@ -65,7 +65,7 @@ const ExplainerSection = () => {
               <div className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 luxury-card w-24 h-24 rounded-full flex items-center justify-center">
                 <div className="text-center">
                   <img 
-                    src="/placeholder.svg" 
+                    src="https://zentrades.pro/wp-content/uploads/2025/05/2-2.svg" 
                     alt="Call Agent" 
                     className="w-12 h-12 mx-auto"
                   />
@@ -78,11 +78,11 @@ const ExplainerSection = () => {
               <div className="absolute bottom-0 left-1/2 -translate-x-1/2 translate-y-1/2 luxury-card w-24 h-24 rounded-full flex items-center justify-center">
                 <div className="text-center">
                   <img 
-                    src="/placeholder.svg" 
+                    src="https://zentrades.pro/wp-content/uploads/2025/05/3-2.svg" 
                     alt="Research Agent" 
                     className="w-12 h-12 mx-auto"
                   />
-                  <div className="text-xs mt-1">Research</div>
+                  <div className="text-xs mt-1">Invoice</div>
                 </div>
               </div>
             </div>
@@ -91,11 +91,11 @@ const ExplainerSection = () => {
               <div className="absolute top-1/2 left-0 -translate-x-1/2 -translate-y-1/2 luxury-card w-24 h-24 rounded-full flex items-center justify-center">
                 <div className="text-center">
                   <img 
-                    src="/placeholder.svg" 
+                    src="https://zentrades.pro/wp-content/uploads/2025/05/4.svg" 
                     alt="Invoice Agent" 
                     className="w-12 h-12 mx-auto"
                   />
-                  <div className="text-xs mt-1">Invoice</div>
+                  <div className="text-xs mt-1">Shaduler</div>
                 </div>
               </div>
             </div>
@@ -104,28 +104,17 @@ const ExplainerSection = () => {
               <div className="absolute top-1/2 right-0 translate-x-1/2 -translate-y-1/2 luxury-card w-24 h-24 rounded-full flex items-center justify-center">
                 <div className="text-center">
                   <img 
-                    src="/placeholder.svg" 
+                    src="https://zentrades.pro/wp-content/uploads/2025/05/5.svg" 
                     alt="Calendar Agent" 
                     className="w-12 h-12 mx-auto"
                   />
-                  <div className="text-xs mt-1">Calendar</div>
+                  <div className="text-xs mt-1">AI-Flieet</div>
                 </div>
               </div>
             </div>
 
-            {/* Additional angles for more agents */}
-            <div className="absolute inset-0 animate-[spin_18s_linear_infinite]" style={{ animationDelay: '0.3s' }}>
-              <div className="absolute top-1/4 right-0 translate-x-1/3 luxury-card w-20 h-20 rounded-full flex items-center justify-center">
-                <div className="text-center">
-                  <img 
-                    src="/placeholder.svg" 
-                    alt="Email Agent" 
-                    className="w-10 h-10 mx-auto"
-                  />
-                  <div className="text-xs mt-1">Email</div>
-                </div>
-              </div>
-            </div>
+        
+            
           </div>
         </div>
       </div>
